@@ -35,6 +35,10 @@ hr {
   width: 25%;
 }
 
+.projects {
+  clear: left;
+}
+
 .hello-img {
   border-radius: 100%;
 }
@@ -54,6 +58,27 @@ hr {
 }
 
 .ramen-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.quantities-img {
+  border-radius: 100%;
+  width: 15%;
+  float: left;
+  margin-right: 50px;
+}
+
+.twochat-img {
+  border-radius: 100%;
+  width: 15%;
+  float: right;
+  margin-left: 50px;
+}
+
+.estimatethat-img {
   border-radius: 100%;
   width: 25%;
   float: left;
