@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+.topdiv {
+  background-color: #abcdcb;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.middle-container {
+  display: inline-block;
+  width: 100%;
+}
+
+.bottom-container {
+background-color: #abcdcb;
+padding: 15px 0 20px;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #66BFBF;
+  border-width: 5px;
+  width: 25%;
+}
+
+.hello-img {
+  border-radius: 100%;
+}
+
+.coding-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.plants-img {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.ramen-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.programmer {
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+
+a {
+  color: #11999E;
+}
+
+ul {
+  width: 20%;
+  text-align: right
+}
+
+.list-para {
+  display: inline-block;
+}
+
+li {
+  width: 20%;
+  text-align: left;
+}
+
+p {
+  text-align: left;
+}
+
+.headline-text {
+  text-align: center;
+}
+
+.bottom-headline-text {
+  text-align: center;
+}
+
+.topcloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+  display: block;
+}
+
+.bottomcloud {
+  padding: 20px;
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.btn {
+  padding-top: 10px;
+  display: block;
+}
+
+.copyright-text {
+  text-align: center;
+  padding-top: 10px;
+  display: block;
+  color: #EAF6F6;
+}
+
+.contact-me {
+  padding-bottom: 5px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: inline-block;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
