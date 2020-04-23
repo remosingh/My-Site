@@ -6,7 +6,7 @@ body {
 
 h1 {
   margin: 0 auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Leckerli One', cursive;
   font-size: 90px;
   color: #66BFBF;
 }
@@ -24,8 +24,8 @@ h1 {
 }
 
 .bottom-container {
-background-color: #abcdcb;
-padding: 15px 0 20px;
+  background-color: #abcdcb;
+  padding: 15px 0 20px;
 }
 
 hr {
