@@ -6,7 +6,6 @@ body {
 
 h1 {
   margin: 0 auto 0 auto;
-  font-family: 'Leckerli One', cursive;
   font-size: 90px;
   color: #66BFBF;
 }
@@ -78,17 +77,29 @@ hr {
   margin-left: 50px;
 }
 
-.estimatethat-img {
+.gfNames-img {
   border-radius: 100%;
   width: 25%;
   float: left;
   margin-right: 50px;
 }
 
+.estimatethat-img {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
 .programmer {
   color: #66BFBF;
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
+}
+
+.rounded {
+  width: 50%;
+  transform: rotate(30deg);
 }
 
 h2 {
